@@ -4,7 +4,7 @@
 - 改编自[中国人民大学 中文Beamer模版](https://www.overleaf.com/latex/templates/ruc-beamer-theme/ssryphkjpyjt)，感谢！
 - 欢迎使用，贡献，联系作者：yihang (duyihangzjj@163.com)
 
-![封面示例]（pic/example.png）
+![封面示例](pic/example.png)
 
 ## 使用
 
